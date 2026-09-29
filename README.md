@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=🚀+FinTech+Builder+%7C+Data+Scientist;💰+Turning+Data+into+Insights;📈+Financial+Modeling+Expert;Building+Tomorrow's+Finance+Solutions)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=📊+Data+Analyst+%7C+Asset+Data+Analyst+II;💡+Turning+Data+into+Insights;🔍+SQL+•+Python+•+Power+BI;🚀+Building+Data-Driven+Solutions)
   
 </div>
 
@@ -16,8 +16,8 @@
 
 **🏢 Current Role**
 
-Financial Analyst @ **Citi Group**  
-Analyzing lending trends & credit risk
+Asset Data Analyst II @ **Cleco**  
+Managing, analyzing & improving asset data
 
 </td>
 <td align="center" width="50%">
@@ -31,9 +31,9 @@ Arizona State University (4.0/4.0 GPA)
 </tr>
 </table>
 
-With **4+ years** of experience in finance and analytics, I'm passionate about bridging the gap between **finance and technology** to create impactful solutions. My background includes building financial models, designing dashboards, and developing predictive ML models that drive real business decisions.
+With **4+ years** of experience in data and analytics, I'm passionate about turning complex, messy data into clear insights that drive better decisions. My work spans data quality and governance, building dashboards, writing efficient SQL, and developing predictive models that help teams plan smarter and operate more reliably.
 
-**📍 Based in:** Arizona, USA | **🌍 Open to:** Remote opportunities & FinTech collaborations
+**📍 Based in:** Louisiana, USA | **🌍 Open to:** Remote opportunities & data collaborations
 
 ---
 
@@ -41,16 +41,16 @@ With **4+ years** of experience in finance and analytics, I'm passionate about b
 
 ```
 ┌─────────────────────────────────────┐
-│  💡 Full-Stack Financial Analyst     │
+│  💡 End-to-End Data Analyst          │
 │  ├─ 📊 Dashboards & BI              │
+│  ├─ 🧹 Data Quality & Governance    │
 │  ├─ 🤖 Machine Learning             │
 │  ├─ 💾 Cloud & Databases            │
-│  ├─ 💻 Full-Stack Development       │
-│  └─ 📈 Financial Modeling           │
+│  └─ 💻 Full-Stack Development       │
 └─────────────────────────────────────┘
 ```
 
-I don't just analyze data—I **build end-to-end solutions** that matter. From creating intelligent dashboards to deploying ML models, I combine financial acumen with technical prowess.
+I don't just analyze data—I **build end-to-end solutions** that matter. From cleaning and structuring asset data to creating intelligent dashboards and deploying ML models, I combine business understanding with technical skill.
 
 ---
 
@@ -90,7 +90,6 @@ I don't just analyze data—I **build end-to-end solutions** that matter. From c
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 </div>
 
@@ -107,27 +106,27 @@ I don't just analyze data—I **build end-to-end solutions** that matter. From c
 
 ## 🚀 Showcase: Featured Projects
 
-### 💰 **Personal Finance Dashboard**
-**Full-Stack Financial Management Platform with Real-Time Market Integration**
+### 📊 **Interactive Analytics Dashboard**
+**Full-Stack Data Dashboard with Real-Time API Integration**
 
 <table>
 <tr>
 <td width="40%">
 
-**🎯 Impact**
-- 📊 Tracks $42K+ portfolio
-- 📈 31% return optimization
-- ⚡ Real-time market data
+**🎯 Highlights**
+- ⚡ Real-time data feeds
+- 📈 Interactive visualizations
+- 🔍 Trend & performance analysis
 - 🎨 Modern, intuitive UI
 
 </td>
 <td width="60%">
 
 **🔧 Tech Stack**  
-React • TypeScript • Node.js • PostgreSQL • TradingView API
+React • TypeScript • Node.js • PostgreSQL • REST APIs
 
 **📖 Features**  
-Portfolio tracking • Technical analysis • Transaction management • Advanced analytics
+Live data tracking • Charting & analysis • Data management • Advanced analytics
 
 </td>
 </tr>
@@ -137,17 +136,17 @@ Portfolio tracking • Technical analysis • Transaction management • Advance
 
 ---
 
-### 🔮 **Credit Risk Scoring Model** *(In Development)*
-**ML-Powered Loan Default Prediction System**
+### 🔮 **Asset Health & Failure Prediction Model** *(In Development)*
+**ML-Powered Predictive Maintenance System**
 
 <table>
 <tr>
 <td width="40%">
 
-**📊 Performance**
-- 🎯 85%+ accuracy
-- 🔍 Risk segmentation
-- 💳 Credit scoring
+**📊 Goals**
+- 🎯 Predict asset failures
+- 🔍 Risk-based prioritization
+- 🛠️ Maintenance planning
 - 📈 Predictive analytics
 
 </td>
@@ -157,7 +156,7 @@ Portfolio tracking • Technical analysis • Transaction management • Advance
 Python (scikit-learn) • XGBoost • Power BI • SQL
 
 **💡 Use Case**  
-Enables data-driven lending decisions and portfolio risk management
+Helps teams move from reactive to proactive maintenance using condition and history data
 
 </td>
 </tr>
@@ -165,18 +164,18 @@ Enables data-driven lending decisions and portfolio risk management
 
 ---
 
-### 📈 **Budget Variance Analytics** *(In Development)*
-**Intelligent Budget Tracking & Anomaly Detection System**
+### 🧹 **Asset Data Quality Monitor** *(In Development)*
+**Automated Data Validation & Anomaly Detection System**
 
 <table>
 <tr>
 <td width="40%">
 
 **🎯 Features**
-- 📊 Real-time tracking
-- 🔍 Department drill-downs
+- ✅ Automated validation rules
+- 🔍 Drill-down by asset class
 - 🚨 Smart alerts
-- 📉 Variance analysis
+- 📉 Data quality scorecards
 
 </td>
 <td width="60%">
@@ -185,7 +184,7 @@ Enables data-driven lending decisions and portfolio risk management
 Power BI • Python • SQL • Cloud Infrastructure
 
 **📋 Value**  
-Reduces budget overruns and improves financial forecasting
+Catches missing, duplicate, and inconsistent records early so reporting stays trustworthy
 
 </td>
 </tr>
@@ -197,13 +196,13 @@ Reduces budget overruns and improves financial forecasting
 
 <div align="center">
 
-| **Financial** | **Analytics** | **Technical** |
+| **Data Management** | **Analytics** | **Technical** |
 |:---:|:---:|:---:|
-| DCF Analysis | Power BI & Tableau | Python & R |
-| Portfolio Risk | Machine Learning | SQL & Databases |
-| Credit Risk | Statistical Analysis | Cloud Platforms |
-| Budget Optimization | Time Series | Full-Stack Dev |
-| GAAP/IFRS | Predictive Modeling | Dashboards & BI |
+| Asset Data Management | Power BI & Tableau | Python & R |
+| Data Quality & Governance | Machine Learning | SQL & Databases |
+| Data Cleaning & ETL | Statistical Analysis | Cloud Platforms |
+| Process Improvement | Time Series | Full-Stack Dev |
+| Reporting & KPIs | Predictive Modeling | Dashboards & BI |
 
 </div>
 
@@ -230,13 +229,7 @@ Reduces budget overruns and improves financial forecasting
 <td align="center">
 
 **💼 4+ Years**  
-Financial Analysis Experience
-
-</td>
-<td align="center">
-
-**💰 $50M+**  
-Lending Portfolio Managed
+Data & Analytics Experience
 
 </td>
 <td align="center">
@@ -280,17 +273,17 @@ Lean Six Sigma
 
 ```
 🔭 Currently Exploring:
-├─ 🤖 Advanced ML for Credit Risk Prediction
+├─ 🤖 Predictive Maintenance & Asset Health Modeling
 ├─ 📈 Time-Series Forecasting Techniques
-├─ 💼 Real-Time Financial Analytics
-├─ ⚡ Algorithmic Trading Strategies
-└─ 🌐 FinTech Architecture Patterns
+├─ 🧹 Data Quality Automation & Governance
+├─ ⚡ Real-Time Analytics & Data Pipelines
+└─ 🗺️ Geospatial Data Analysis
 ```
 
 **🤝 I'm Open To:**
-- Collaborating on FinTech projects
+- Collaborating on data analytics projects
 - Contributing to data science initiatives
-- Building next-gen financial tools
+- Building tools that make data easier to use
 - Mentoring aspiring analysts
 
 ---
@@ -307,10 +300,10 @@ Lean Six Sigma
 </div>
 
 ### 💬 Let's Talk About:
-- 💰 Financial Analysis & Modeling
 - 📊 Data Analytics & Visualization
-- 🤖 Machine Learning in Finance
-- 💼 FinTech Solutions & Innovation
+- 🧹 Data Quality & Asset Data Management
+- 🤖 Machine Learning & Predictive Analytics
+- 💾 SQL, Databases & Cloud Data Tools
 - 🚀 Career Growth & Opportunities
 
 **📧 Direct Message:** siddharthholankar08@gmail.com
@@ -319,9 +312,9 @@ Lean Six Sigma
 
 ## 🌟 Fun Facts
 
-- 🎯 Passionate about turning complex financial data into actionable insights
+- 🎯 Passionate about turning complex data into actionable insights
 - 🚀 Believe in building products, not just writing code
-- 💡 Coffee-powered developer & finance enthusiast
+- 💡 Coffee-powered analyst & data enthusiast
 - 🌍 Always learning, always building
 - 🎨 Design meets data in my projects
 
@@ -337,6 +330,6 @@ Lean Six Sigma
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddharthholankar&color=6366f1&style=for-the-badge)
 
-**Made with ❤️ by [Siddharth Holankar](https://github.com/siddharthholankar)** | *Building the future of FinTech, one commit at a time! 🚀*
+**Made with ❤️ by [Siddharth Holankar](https://github.com/siddharthholankar)** | *Turning data into decisions, one commit at a time! 🚀*
 
 </div>
